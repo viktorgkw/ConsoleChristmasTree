@@ -10,6 +10,6 @@ Its 25th of December and we all know why I made this project :D
 Merry Christmas and have fun!
 </strong>
 
-![](https://github.com/viktorgkw/ConsoleChristmasTree/ChristmasTree.gif)
+![CT gifche](https://user-images.githubusercontent.com/57828155/209478889-847f697f-f388-4262-baa3-e11923d8bd3d.gif)
 
 ## Thanks for checking out the repository! 💚
