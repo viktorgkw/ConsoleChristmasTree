@@ -1,0 +1,3 @@
+﻿using ConsoleChristmasTree;
+
+ChristmasTree.StartLights();
